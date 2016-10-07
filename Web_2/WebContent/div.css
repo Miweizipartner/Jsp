@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+.div_1{
+	width: 380px;
+	margin:200px auto 0px auto;
+}
+.div_2{
+	margin:20px auto 0px auto;
+}
+.div_3{
+	width:80px;
+	margin:20px auto 0px auto;
+}
+.div_4{
+	text-align: center;
+}
